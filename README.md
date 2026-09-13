@@ -10,7 +10,7 @@ I build pipelines for large scientific datasets: ingestion, parallel processing,
 
 **Featured**
 
-- [ztf-tools](https://github.com/Electronovae/ztf-tools) — Python pipeline indexing and processing 544k public ZTF archive files, parallelized download, memory-efficient stacking, validated against the ZTF-COSMO-DR2 catalog on a confirmed Type Ia supernova.
+- [ztf-snia-public-scraper](https://github.com/Electronovae/ztf-snia-public-scraper) — Python pipeline indexing and processing 544k public ZTF archive files, parallelized download, memory-efficient stacking, validated against the ZTF-COSMO-DR2 catalog on a confirmed Type Ia supernova.
 - [sideria-codex-mj-dashboard](https://github.com/Electronovae/sideria-codex-mj-dashboard) — React/Supabase web app for running a homebrew tabletop RPG campaign. Live at [sideria.fr](https://sideria.fr).
 
 ---
